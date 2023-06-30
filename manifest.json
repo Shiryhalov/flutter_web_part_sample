@@ -1,11 +1,11 @@
 {
-    "name": "flutter_web_part_sample",
-    "short_name": "flutter_web_part_sample",
+    "name": "client_azazel",
+    "short_name": "client_azazel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Azazel games client project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
