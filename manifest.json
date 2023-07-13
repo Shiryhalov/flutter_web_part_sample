@@ -1,11 +1,11 @@
 {
-    "name": "client_azazel",
-    "short_name": "client_azazel",
+    "name": "azazel_game_trex",
+    "short_name": "azazel_game_trex",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Azazel games client project.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
